@@ -2,6 +2,7 @@
 Projeto da Semana Omnistack 11
 
 ### Instalações - projeto Mobile:
+```
 expo init project-name
 npm install @react-navigation/native
 expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
@@ -10,6 +11,7 @@ expo install expo-constants
 expo install expo-mail-composer
 npm install axios
 npm install intl
+```
 
 ### Expo:
 https://docs.expo.io/versions/latest/guides/routing-and-navigation/
