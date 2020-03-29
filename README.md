@@ -13,11 +13,11 @@ npm install axios
 npm install intl
 ```
 
-### Expo:
-https://docs.expo.io/versions/latest/guides/routing-and-navigation/
-https://github.com/react-navigation/react-navigation
-https://reactnavigation.org/
-https://reactnavigation.org/docs/getting-started
-https://reactnavigation.org/docs/hello-react-navigation
+### Expo (Rotas):
+- https://docs.expo.io/versions/latest/guides/routing-and-navigation/
+- https://github.com/react-navigation/react-navigation
+- https://reactnavigation.org/
+- https://reactnavigation.org/docs/getting-started
+- https://reactnavigation.org/docs/hello-react-navigation
 
 
