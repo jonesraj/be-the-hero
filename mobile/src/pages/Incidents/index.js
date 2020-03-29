@@ -53,6 +53,12 @@ export default function Incidents() {
         <Text style={styles.headerText}>
           Total de <Text style={styles.headerTextBold}>{total} casos</Text>.
         </Text>
+        <TouchableOpacity
+          style={styles.detailsButton}
+          onPress={loadIncidents}
+        >
+          <Feather name="refresh-cw" size={16} color="#E02041" />
+        </TouchableOpacity>        
       </View>
 
       <Text style={styles.title}>Bem-vindo!</Text>
